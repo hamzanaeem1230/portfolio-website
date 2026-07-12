@@ -33,6 +33,7 @@ export function FloatingParticlesBackground() {
 
     // Set canvas size to match window
     const resizeCanvas = () => {
+      if (!canvas) return
       canvas.width = window.innerWidth
       canvas.height = window.innerHeight
     }
