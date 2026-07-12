@@ -33,8 +33,8 @@ export function MagneticButton({
   const springY = useSpring(y, { stiffness: 250, damping: 18, mass: 0.4 })
 
   function handleMove(e: React.MouseEvent) {
-    if (disabled) return
-    const rect = ref.current?.getBoundingClientRect()
+    if (disabled || !ref.current) return
+    const rect = ref.current.getBoundingClientRect()
     if (!rect) return
     const relX = e.clientX - (rect.left + rect.width / 2)
     const relY = e.clientY - (rect.top + rect.height / 2)
