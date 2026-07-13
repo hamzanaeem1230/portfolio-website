@@ -1,33 +1,133 @@
-# portfolio-website-e1
+# 🛡️ Hamza Naeem – Cybersecurity Portfolio
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+A modern, responsive, and interactive cybersecurity portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Three.js**.
 
-## Built with v0
+Designed to showcase my cybersecurity journey, technical skills, projects, certifications, and hands-on learning experience with a premium developer experience.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+---
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_cnVb0qNxDJd6lQcIjv1f7eypbjNC)
+## 🌐 Live Website
 
-## Getting Started
+🔗 https://YOUR-VERCEL-URL.vercel.app
 
-First, run the development server:
+---
+
+## ✨ Features
+
+- 🌍 Interactive 3D Earth powered by Three.js
+- 🖥️ Live terminal-inspired interface
+- 📊 GitHub profile integration
+- 🎯 TryHackMe profile integration
+- 🤖 AI-powered assistant
+- 💻 Fully responsive design
+- ✨ Smooth animations and glassmorphism UI
+- 🌌 Floating particle background
+- 📄 Resume download
+- 📱 Mobile-friendly layout
+- ⚡ Optimized for performance
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js 15
+- React
+- TypeScript
+- Tailwind CSS
+- Three.js
+- Framer Motion
+- Lucide Icons
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```
+app/
+components/
+public/
+lib/
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/hamzanaeem1230/portfolio-website.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-## Learn More
+---
 
-To learn more, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+> Add screenshots of your homepage, projects section, terminal, and mobile view.
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Hamza Naeem**, a BS Information Technology student at the University of the Punjab with a strong interest in:
+
+- Blue Team Operations
+- SOC Analysis
+- Network Security
+- AI Security
+- Ethical Hacking
+
+I enjoy building practical cybersecurity projects while continuously improving my skills through hands-on labs and real-world learning.
+
+---
+
+## 🔗 Connect With Me
+
+GitHub:
+https://github.com/hamzanaeem1230
+
+LinkedIn:
+https://www.linkedin.com/in/hamza-naeem-652b48315/
+
+TryHackMe:
+https://tryhackme.com/p/hamzanaeem123098785
+
+---
+
+## 📄 License
+
+This project is available for learning and portfolio demonstration purposes.
+
+© 2026 Hamza Naeem. All rights reserved.
+
+-----------------------------------------
+🛡️ Hamza Naeem Portfolio
+
+⭐ Live Demo
+📸 Screenshot
+🚀 Features
+🛠 Tech Stack
+📂 Folder Structure
+⚡ Installation
+👨 About Me
+📬 Contact
+-----------------------------------------
