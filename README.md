@@ -118,16 +118,3 @@ https://tryhackme.com/p/hamzanaeem123098785
 This project is available for learning and portfolio demonstration purposes.
 
 © 2026 Hamza Naeem. All rights reserved.
-
------------------------------------------
-🛡️ Hamza Naeem Portfolio
-
-⭐ Live Demo
-📸 Screenshot
-🚀 Features
-🛠 Tech Stack
-📂 Folder Structure
-⚡ Installation
-👨 About Me
-📬 Contact
------------------------------------------
